@@ -8,7 +8,7 @@ Rise Client es un cliente de utilidad para Minecraft Bedrock diseñado para ofre
 
 ## Desarrollador
 
-Rise Client fue creado y desarrollado por **Libba**.
+Libba
 
 ## Código Abierto
 
